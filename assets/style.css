@@ -1,5 +1,5 @@
 body {
-  --mainColor: #00abff;
+  --mainColor: #001B59;
   --mainBackgroundColor: #f2f0f0;
   --mainForegroundColor: #1b2733;
   --submenuColor: #ffffff;
@@ -10,8 +10,15 @@ body {
   --menuBackgroundColor: #ffffff;
   --whiteColor: #ffffff;
   --mainHoverColor: #0481bf;
-  --dangerBackgroundColor: #d9534f;
+  --dangerBackgroundColor: #FF674C;
   /*font-family: "Open Sans",sans-serif;*/
+}
+
+#custom-css .header {
+  background-color: var(--mainColor) !important;
+}
+#custom-css .icon-logo {
+  background-image: url('/images/logo.svg');
 }
 
 #custom-css #search-video{
