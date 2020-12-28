@@ -1,6 +1,6 @@
-# BitTube light-theme (no background)
+# NousSommes theme (no background)
 
-BitTube Light Theme for PeerTube. This is a light version without background.
+NousSommes Montpellier Theme for PeerTube. 
 
  # How to install in your PeerTube instance
 
