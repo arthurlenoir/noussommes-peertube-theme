@@ -1,5 +1,5 @@
 {
-  "name": "noussommes-peertube-theme",
+  "name": "peertube-theme-noussommes",
   "version": "1.0.0",
   "description": "NousSommes theme",
   "engine": {
@@ -9,9 +9,9 @@
     "peertube",
     "theme"
   ],
-  "homepage": "https://github.com/arthurlenoir/noussommes-peertube-theme",
+  "homepage": "https://github.com/arthurlenoir/peertube-theme-noussommes",
   "author": "Arthur Lenoir",
-  "bugs": "https://github.com/arthurlenoir/noussommes-peertube-theme/issues",
+  "bugs": "https://github.com/arthurlenoir/peertube-theme-noussommes/issues",
   "staticDirs": {
     "images": "public/images"
   },
