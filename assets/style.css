@@ -18,7 +18,24 @@ body {
   background-color: var(--mainColor) !important;
 }
 #custom-css .icon-logo {
-  background-image: url('/images/logo.svg');
+  background-image: url('../../static/images/logo.svg');
+  background-size: contain;
+  width: 62px;
+  height: 48px;
+}
+#custom-css .icon.icon-filter {
+  background-image: url('../../static/images/filter_black.png');
+}
+#custom-css .icon.icon-language {
+  background-image: url('../../static/images/languages_black.png');
+}
+#custom-css .icon.icon-shortcuts {
+  background-image: url('../../static/images/keyboard_black.png');
+  -webkit-filter: none;
+  filter: none;
+}
+#custom-css .peertube-title, #custom-css .peertube-title:visited, #custom-css .icon-menu {
+  color: var(--whiteColor);
 }
 
 #custom-css #search-video{

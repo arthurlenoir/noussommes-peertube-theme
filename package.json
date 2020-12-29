@@ -1,6 +1,6 @@
 {
   "name": "peertube-theme-noussommes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NousSommes theme",
   "engine": {
     "peertube": ">=3.0.0"

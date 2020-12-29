@@ -1,4 +1,4 @@
-# NousSommes theme (no background)
+# NousSommes theme
 
 NousSommes Montpellier Theme for PeerTube. 
 
