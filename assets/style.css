@@ -20,8 +20,12 @@ body {
 #custom-css .icon-logo {
   background-image: url('../../static/images/logo.svg');
   background-size: contain;
-  width: 62px;
+  background-position: center center;
+  width: 90px;
   height: 48px;
+}
+#custom-css .icon.icon-menu {
+  background-color: var(--whiteColor);
 }
 #custom-css .icon.icon-filter {
   background-image: url('../../static/images/filter_black.png');
@@ -35,7 +39,7 @@ body {
   filter: none;
 }
 #custom-css .peertube-title, #custom-css .peertube-title:visited, #custom-css .icon-menu {
-  color: var(--whiteColor);
+  color: var(--whiteColor) !important;
 }
 
 #custom-css #search-video{
